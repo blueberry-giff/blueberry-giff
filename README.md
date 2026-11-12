@@ -1,4 +1,4 @@
-## Hi, I'm Blue,
+## Hi, I'm Blue
 
 Third-year Cybersecurity & Forensics student at Edinburgh Napier.
 I enjoy hands on security work, from penetration testing and network security to incident response. 
